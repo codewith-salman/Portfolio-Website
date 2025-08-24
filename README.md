@@ -3,8 +3,8 @@
 <br />
 <div align="center">
   <h1>💼 Pfolio - Portfolio Website</h1>
-  <p>A sleek, modern, and responsive portfolio website built with HTML, CSS, and JavaScript.</p>
-  <img src="Pfolio%20website/assets/images/screenshot.png" alt="Pfolio Portfolio Website Screenshot" width="700"/>
+  <p>A sleek, modern, and responsive portfolio website built with HTML, CSS.</p>
+  <img src="Pfolio%20website/assets/images/screenshot.png" alt="Pfolio Portfolio Website Screenshot" width="100%"/>
 </div>
 
 ---
